@@ -2,7 +2,7 @@
 - **NIM**   : 312410157
 - **Kelas** : TI.24.A1  
 - **Mata Kuliah** : Bahasa Pemrograman Web 1
-- 
+  
 # latihan 10 PHP MODULAR
 
 Aplikasi **Manajemen Barang** dengan fitur **login, register, dan logout** berbasis PHP & MySQL.
